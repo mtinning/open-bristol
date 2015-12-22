@@ -1,0 +1,170 @@
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\roslyn\csc.exe
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\roslyn\vbc.exe
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\roslyn\VBCSCompiler.exe
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\OpenBristol.Web.dll.config
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\OpenBristol.Web.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\OpenBristol.Web.pdb
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Antlr3.Runtime.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\EntityFramework.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\EntityFramework.SqlServer.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.AI.Web.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.AI.WindowsServer.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.ApplicationInsights.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.Owin.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.Owin.Security.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.Owin.Security.Google.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Nancy.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Nancy.Owin.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Newtonsoft.Json.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Owin.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\System.Web.Helpers.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\System.Web.Mvc.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\System.Web.Optimization.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\System.Web.Razor.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\System.Web.WebPages.Deployment.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\System.Web.WebPages.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\System.Web.WebPages.Razor.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\WebGrease.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.AI.Web.xml
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.AI.WindowsServer.xml
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.ApplicationInsights.xml
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Nancy.xml
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Nancy.Owin.xml
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\System.Web.Helpers.xml
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\System.Web.Mvc.xml
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\System.Web.Optimization.xml
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\System.Web.Razor.xml
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\System.Web.WebPages.xml
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\System.Web.WebPages.Deployment.xml
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\System.Web.WebPages.Razor.xml
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Antlr3.Runtime.pdb
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Newtonsoft.Json.xml
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\EntityFramework.xml
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\EntityFramework.SqlServer.xml
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.Owin.xml
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.Owin.Security.xml
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.Owin.Security.Google.xml
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\obj\Debug\OpenBristol.Web.csprojResolveAssemblyReference.cache
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\obj\Debug\OpenBristol.Web.dll
+c:\users\mtinning\documents\visual studio 2015\Projects\OpenBristol\OpenBristol.Web\obj\Debug\OpenBristol.Web.pdb
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\roslyn\csc.exe
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\roslyn\vbc.exe
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\roslyn\VBCSCompiler.exe
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\OpenBristol.Web.dll.config
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\OpenBristol.Web.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\OpenBristol.Web.pdb
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Antlr3.Runtime.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\EntityFramework.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\EntityFramework.SqlServer.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.AI.Web.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.ApplicationInsights.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.Owin.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.Owin.Security.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Nancy.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Nancy.Owin.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Newtonsoft.Json.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Owin.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\System.Web.Helpers.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\System.Web.Mvc.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\System.Web.Optimization.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\System.Web.Razor.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\System.Web.WebPages.Deployment.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\System.Web.WebPages.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\System.Web.WebPages.Razor.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\WebGrease.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.AI.Web.xml
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.ApplicationInsights.xml
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Nancy.xml
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Nancy.Owin.xml
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\System.Web.Helpers.xml
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\System.Web.Mvc.xml
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\System.Web.Optimization.xml
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\System.Web.Razor.xml
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\System.Web.WebPages.xml
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\System.Web.WebPages.Deployment.xml
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\System.Web.WebPages.Razor.xml
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Antlr3.Runtime.pdb
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Newtonsoft.Json.xml
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\EntityFramework.xml
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\EntityFramework.SqlServer.xml
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.Owin.xml
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.Owin.Security.xml
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\bench\open-bristol\vs\OpenBristol.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\bench\open-bristol\vs\OpenBristol.Web\obj\Debug\OpenBristol.Web.csprojResolveAssemblyReference.cache
+C:\bench\open-bristol\vs\OpenBristol.Web\obj\Debug\OpenBristol.Web.dll
+C:\bench\open-bristol\vs\OpenBristol.Web\obj\Debug\OpenBristol.Web.pdb

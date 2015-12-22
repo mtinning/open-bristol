@@ -1,0 +1,9 @@
+h1, h3 {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 100
+}
+
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+}
