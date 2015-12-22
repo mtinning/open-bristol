@@ -5,3 +5,5 @@ OpenBristol.Web/obj/*
 OpenBristol.Web/views/*
 OpenBristol.Web/dist/*
 OpenBristol.Web/css/*
+.vs/*
+web/ts/*

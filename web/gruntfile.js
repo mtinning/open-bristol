@@ -9,21 +9,20 @@ module.exports = function(grunt) {
     pkg: grunt.file.readJSON('package.json'),
     browserify: {
       dist: {
-        options: {
-          transform: [
-            ["babelify", {
-              presets: ["es2015"]
-            }]
-          ],
-          browserifyOptions: {
-            paths: [
-              './node_modules/',
-              appPath
-            ]
-          }
-        },
         files: {
-          "../OpenBristol.Web/dist/boot.js": [ appPath + "/boot.js" ]
+          "../OpenBristol.Web/dist/boot.js": [ "./ts/boot.js" ]
+        }
+      }
+    },
+    typescript: {
+      base: {
+        src: [ appPath + "/**/*.ts"],
+        dest: "./ts/",
+        options: {
+          module: "commonjs",
+          moduleResolution: "node",
+          target: "es5",
+          experimentalDecorators: true
         }
       }
     },
@@ -36,7 +35,7 @@ module.exports = function(grunt) {
         }
       },
       scripts: {
-        files: [ appPath + "/**/*.js" ],
+        files: [ appPath + "/**/*.ts" ],
         tasks: ["html"],
         options: {
           spawn: false
@@ -68,7 +67,7 @@ module.exports = function(grunt) {
         files: [ {
           expand: true,
           cwd: appPath,
-          src: ["**/*.js"],
+          src: ["**/*.ts"],
           dest: destPath + "/scripts/"
         } ]
       },
@@ -84,11 +83,12 @@ module.exports = function(grunt) {
   });
 
   grunt.loadNpmTasks("grunt-browserify");
+  grunt.loadNpmTasks("grunt-typescript");
   grunt.loadNpmTasks("grunt-contrib-watch");
   grunt.loadNpmTasks("grunt-contrib-copy");
 
   grunt.registerTask("html", ["copy:html"]);
-  grunt.registerTask("scripts", ["browserify"]);
+  grunt.registerTask("scripts", ["typescript", "browserify"]);
   grunt.registerTask("css", ["copy:css"]);
 
   grunt.registerTask("watch:all", ["watch:html", "watch:scripts", "watch:css"]);
