@@ -1,2 +1,7 @@
 web/node_modules/*
 packages/*
+OpenBristol.Web/bin/*
+OpenBristol.Web/obj/*
+OpenBristol.Web/views/*
+OpenBristol.Web/dist/*
+OpenBristol.Web/css/*
