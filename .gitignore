@@ -1,4 +1,6 @@
 web-angular2/node_modules/*
+web-aurelia/node_modules/*
+web-aurelia/jspm_packages/*
 packages/*
 **/bin/*
 **/obj/*
