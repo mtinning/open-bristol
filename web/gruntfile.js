@@ -29,14 +29,14 @@ module.exports = function(grunt) {
     watch: {
       html: {
         files: [ appPath + "/**/*.html" ],
-        tasks: ["scripts"],
+        tasks: ["html"],
         options: {
           spawn: false
         }
       },
       scripts: {
         files: [ appPath + "/**/*.ts" ],
-        tasks: ["html"],
+        tasks: ["scripts"],
         options: {
           spawn: false
         }
