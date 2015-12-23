@@ -1,4 +1,4 @@
-web/node_modules/*
+web-angular2/node_modules/*
 packages/*
 **/bin/*
 **/obj/*
@@ -6,4 +6,4 @@ OpenBristol.Web/views/*
 OpenBristol.Web/dist/*
 OpenBristol.Web/css/*
 .vs/*
-web/ts/*
+web-angular2/ts/*
