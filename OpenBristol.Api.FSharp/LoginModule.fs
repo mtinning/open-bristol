@@ -9,13 +9,13 @@ open Microsoft.FSharp.Data.TypeProviders
 
 open FSharp.Interop.Dynamic
 
-module LoginModuleGroup =
+module Login =
 
     type private EntityConnection = SqlEntityConnection<ConnectionString="Data Source=SL-WS-207;Initial Catalog=open-bristol;Integrated Security=True;MultipleActiveResultSets=true", Pluralize=true>
     
     let private context = EntityConnection.GetDataContext()
 
-    type LoginModuleScoped() =
+    type Login() =
         inherit NancyModule("/login")
 
         let random = new Random()
@@ -44,7 +44,7 @@ module LoginModuleGroup =
         do
             base.Get.["/"] <- fun (p:Object) -> login |> sprintf "%d" :> Object
 
-    type GConnectModuleScoped() =
+    type GConnect() =
         inherit NancyModule("/gconnect")
 
         let getSession origin =
@@ -60,7 +60,7 @@ module LoginModuleGroup =
                 | None -> false
 
         do
-            base.Post.["/{sessionId}"] <- fun (p:Object) ->  p?sessionId.ToString() |> Int32.Parse |> isSessionValid 0 :> Object
+            base.Post.["{sessionId}"] <- fun (p:Object) ->  p?sessionId.ToString() |> Int32.Parse |> isSessionValid 0 :> Object
 
-type LoginModule() = inherit LoginModuleGroup.LoginModuleScoped()
-type GConnectModule() = inherit LoginModuleGroup.GConnectModuleScoped()
+type LoginModule() = inherit Login.Login()
+type GConnectModule() = inherit Login.GConnect()
