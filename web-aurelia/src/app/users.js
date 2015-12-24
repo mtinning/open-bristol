@@ -21,4 +21,4 @@ export class Users {
       .then(response => response.json())
       .then(users => this.users = users);
   }
-}
+});

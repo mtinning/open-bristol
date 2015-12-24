@@ -87,7 +87,7 @@ module.exports = function(grunt) {
           expand: true,
           cwd: appPath,
           src: ["**/*.css"],
-          dest: destPath + "/css/"
+          dest: destPath + "/dist/"
         } ]
       },
       dep: {
