@@ -3,7 +3,7 @@ export class App {
     config.title = 'Open Bristol';
     config.map([
       { route: ['','welcome'],  name: 'welcome',  moduleId: './welcome', nav: true, title:'Welcome' },
-      { route: 'login',         name: 'login',    moduleId: './login', nav: true, title: 'Login'}
+      { route: 'login-browser', name: 'login-browser',    moduleId: './login-browser', nav: true, title: 'Login (In Browser)'}
     ]);
 
     this.router = router;

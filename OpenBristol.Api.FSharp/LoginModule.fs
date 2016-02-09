@@ -1,11 +1,14 @@
 ﻿namespace OpenBristol.Api.FSharp
 
 open Nancy
+open Nancy.Security
 
 open System
 open System.Data.Linq
 open System.Data.Entity
 open Microsoft.FSharp.Data.TypeProviders
+open Microsoft.Owin.Security
+open Microsoft.Owin.Security.OpenIdConnect
 
 open FSharp.Interop.Dynamic
 
@@ -15,7 +18,7 @@ module Login =
     
     let private context = EntityConnection.GetDataContext()
 
-    type Login() =
+    type LoginModule() =
         inherit NancyModule("/login")
 
         let random = new Random()
@@ -44,23 +47,24 @@ module Login =
         do
             base.Get.["/"] <- fun (p:Object) -> login |> sprintf "%d" :> Object
 
-    type GConnect() =
-        inherit NancyModule("/gconnect")
-
-        let getSession origin =
-            query {
-                for session in context.Sessions do
-                where (session.RequestUrl = origin)
-                select session }
-            |> Seq.tryFind (fun _ -> true)
-
-        let isSessionValid origin sessionId =
-            match getSession origin with 
-                | Some s -> s.SessionId = sessionId
-                | None -> false
-
+    type AuthenticationModule() as this = 
+        inherit NancyModule("/")
+        
         do
-            base.Post.["{sessionId}"] <- fun (p:Object) ->  p?sessionId.ToString() |> Int32.Parse |> isSessionValid 0 :> Object
+            base.Get.["/signin"] <- fun (p:Object) -> this.signIn :> Object
 
-type LoginModule() = inherit Login.Login()
-type GConnectModule() = inherit Login.GConnect()
+        member this.signIn =
+            match this.Context.GetAuthenticationManager() with
+                | null -> raise(new NotSupportedException("An OWIN authentication manager cannot be found"))
+                | m -> m.Challenge(new AuthenticationProperties(RedirectUri = "/"), OpenIdConnectAuthenticationDefaults.AuthenticationType)
+
+            HttpStatusCode.Unauthorized 
+
+        member this.signOut =
+            match this.Context.GetAuthenticationManager() with
+                | null -> raise(new NotSupportedException("An OWIN authentication manager cannot be found"))
+                | m -> 
+                    m.SignOut "ClientCookie"
+                    m.SignOut OpenIdConnectAuthenticationDefaults.AuthenticationType
+
+            HttpStatusCode.OK
